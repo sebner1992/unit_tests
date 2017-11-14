@@ -5,6 +5,13 @@ Assignment 6 handout
 Assignment 6: Unit test, code coverage
 --------------------------------------
 
+Note: <span style="color:red">**THIS IS A MANDATORY ASSIGNMENT !!!**</span>
+
+once again: 
+```diff
+- THIS IS A MANDATORY ASSIGNMENT !!!
+```
+
 **JUnit and some background.**
 1.  What is test driven development (TDD), unit testing?
 1.  Get familiar with JUnit 5 (www.junit.org); (use version 5, which is based on Java annotations).
