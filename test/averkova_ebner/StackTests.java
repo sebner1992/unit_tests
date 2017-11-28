@@ -18,7 +18,7 @@ public class StackTests
     private final static int stackSize = 10;
     private Stack<String> stack;
 
-    public StackTests(Stack<String> stack)
+    public StackTests(String name, Stack<String> stack)
     {
         this.stack = stack;
     }
